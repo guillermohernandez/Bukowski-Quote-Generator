@@ -1,0 +1,21 @@
+body {
+  background: url("http://i.imgur.com/bRnzMr3.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Inconsolata';
+}
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+#quote {
+  color: #FFF;
+  font-size: 45px;
+  text-transform: uppercase;
+  text-shadow: 1px 0.5px #282828;
+}
+
+;
