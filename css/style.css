@@ -1,21 +1,23 @@
 body {
-  background: url("/img/bukowski.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  font-family: 'Inconsolata';
+    background: url("/img/bukowski.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Inconsolata';
 }
 
 .jumbotron {
-  background-color: rgba(0, 0, 0, 0.5) !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 #quote {
-  color: #FFF;
-  font-size: 45px;
-  text-transform: uppercase;
-  text-shadow: 1px 0.5px #282828;
+    color: #FFF;
+    font-size: 45px;
+    text-transform: uppercase;
+    text-shadow: 1px 0.5px #282828;
 }
 
-;
+#quote::after {
+    content: "\f10e";
+}
