@@ -10,7 +10,7 @@ Built with Bootstrap and JavaScript
 - [ ] Update Demo
 
 ## Demo
-http://codepen.io/guillermohernandez/full/OyaPZR/
+http://guillermohernandez.github.io/Bukowski-Quote-Generator/
 
 ## Contact
 #### Guillermo Hernandez Jr
